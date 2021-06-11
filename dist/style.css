@@ -1,11 +1,7 @@
 *{
-    margin: 0;
+    margin:0;
     padding: 0;
 }
-.hero{
-    background: #cd6133;
-    height: 300px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
+body{
+    background: red;
 }
